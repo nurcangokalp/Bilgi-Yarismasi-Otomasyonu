@@ -1,0 +1,17 @@
+C:\Users\nurcan\source\repos\Pratik2\Pratik2\bin\Debug\net8.0-windows\Pratik2.exe
+C:\Users\nurcan\source\repos\Pratik2\Pratik2\bin\Debug\net8.0-windows\Pratik2.deps.json
+C:\Users\nurcan\source\repos\Pratik2\Pratik2\bin\Debug\net8.0-windows\Pratik2.runtimeconfig.json
+C:\Users\nurcan\source\repos\Pratik2\Pratik2\bin\Debug\net8.0-windows\Pratik2.dll
+C:\Users\nurcan\source\repos\Pratik2\Pratik2\bin\Debug\net8.0-windows\Pratik2.pdb
+C:\Users\nurcan\source\repos\Pratik2\Pratik2\obj\Debug\net8.0-windows\Pratik2.Form1.resources
+C:\Users\nurcan\source\repos\Pratik2\Pratik2\obj\Debug\net8.0-windows\Pratik2.Properties.Resources.resources
+C:\Users\nurcan\source\repos\Pratik2\Pratik2\obj\Debug\net8.0-windows\Pratik2.csproj.GenerateResource.cache
+C:\Users\nurcan\source\repos\Pratik2\Pratik2\obj\Debug\net8.0-windows\Pratik2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurcan\source\repos\Pratik2\Pratik2\obj\Debug\net8.0-windows\Pratik2.AssemblyInfoInputs.cache
+C:\Users\nurcan\source\repos\Pratik2\Pratik2\obj\Debug\net8.0-windows\Pratik2.AssemblyInfo.cs
+C:\Users\nurcan\source\repos\Pratik2\Pratik2\obj\Debug\net8.0-windows\Pratik2.csproj.CoreCompileInputs.cache
+C:\Users\nurcan\source\repos\Pratik2\Pratik2\obj\Debug\net8.0-windows\Pratik2.dll
+C:\Users\nurcan\source\repos\Pratik2\Pratik2\obj\Debug\net8.0-windows\refint\Pratik2.dll
+C:\Users\nurcan\source\repos\Pratik2\Pratik2\obj\Debug\net8.0-windows\Pratik2.pdb
+C:\Users\nurcan\source\repos\Pratik2\Pratik2\obj\Debug\net8.0-windows\Pratik2.genruntimeconfig.cache
+C:\Users\nurcan\source\repos\Pratik2\Pratik2\obj\Debug\net8.0-windows\ref\Pratik2.dll
